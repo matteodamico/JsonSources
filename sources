@@ -15,5 +15,21 @@
 "id": 2,
 "description": "",
 "logo_url": "https://www.virginradio.it/resizer/136/136/true/1562062835580.png--.png?1562062836000"
+},{
+"name": "Virgin Radio - PINK FLOYD",
+"created_at": "2020-05-01T20:25:47+01:00",
+"category": "Radio",
+"url": "https://icy.unitedradio.it/VirginRogerWaters.mp3",
+"id": 3,
+"description": "",
+"logo_url": "https://www.virginradio.it/resizer/136/136/true/1562062821957.png--.png"
+},{
+"name": "Virgin Radio - ROLLING STONE",
+"created_at": "2020-05-01T20:25:47+01:00",
+"category": "Radio",
+"url": "https://icy.unitedradio.it/VirginSpecialEvent.mp3",
+"id": 4,
+"description": "",
+"logo_url": "https://www.virginradio.it/resizer/136/136/true/1562062810906.png--.png"
 }]
 }
