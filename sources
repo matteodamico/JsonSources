@@ -5,7 +5,7 @@
 "category": "Radio",
 "url": "https://n07.radiojar.com/0tw3swmqwbwtv.mp3",
 "id": 1,
-"description": "",
+"description": "MAZDA Web RADIO",
 "logo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Brand_Mark_Vertical_Primary_ver1.1.png/832px-Brand_Mark_Vertical_Primary_ver1.1.png"
 },{
 "name": "Virgin Radio - QUEEN",
@@ -21,7 +21,7 @@
 "category": "Radio",
 "url": "https://icy.unitedradio.it/VirginRogerWaters.mp3",
 "id": 3,
-"description": "",
+"description": "PINK FLOYD",
 "logo_url": "https://www.virginradio.it/resizer/136/136/true/1562062821957.png--.png"
 },{
 "name": "Virgin Radio - ROLLING STONE",
@@ -29,7 +29,7 @@
 "category": "Radio",
 "url": "https://icy.unitedradio.it/VirginSpecialEvent.mp3",
 "id": 4,
-"description": "",
+"description": "ROLLING STONE",
 "logo_url": "https://www.virginradio.it/resizer/136/136/true/1562062810906.png--.png"
 },{
 "name": "Virgin Radio - ALTERNATIVE ROCK",
@@ -37,7 +37,23 @@
 "category": "Radio",
 "url": "https://icy.unitedradio.it/VirginRockAlternative.mp3",
 "id": 5,
-"description": "",
+"description": "ALTERNATIVE ROCK",
 "logo_url": "https://www.virginradio.it/resizer/136/136/true/Webradio-Virgin-2020-AlternativeRock-1588062757869.png--.png"
+},{
+"name": "Virgin Radio - ROCK PARTY",
+"created_at": "2020-05-01T20:25:47+01:00",
+"category": "Radio",
+"url": "https://icy.unitedradio.it/VirginRockParty.mp3",
+"id": 6,
+"description": "ROCK PARTY",
+"logo_url": "https://www.virginradio.it/resizer/136/136/true/Webradio-Virgin-2020-RockParty-1588062511268.png--.png"
+},{
+"name": "Virgin Radio - CLASSIC ROCK",
+"created_at": "2020-05-01T20:25:47+01:00",
+"category": "Radio",
+"url": "https://icy.unitedradio.it/VirginRockClassics.mp3",
+"id": 7,
+"description": "CLASSIC ROCK",
+"logo_url": "https://www.virginradio.it/resizer/136/136/true/Webradio-Virgin-2020-ClassicRock-1588062884404.png--.png"
 }]
 }
