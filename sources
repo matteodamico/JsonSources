@@ -215,5 +215,113 @@
 "description": "GTA Vice City Radio",
 "logo_url": "https://images-na.ssl-images-amazon.com/images/I/618AfzVaFaL._AC_.jpg",
 "provider_logo_url": "https://cdn-products.eneba.com/resized-products/a5d6c023c377c60e5394b0cd5301a6d1_390x400_1x-0.jpg"
+},{
+"name": "ADVERTS Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FAdverts.mp3",
+"id": 110,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://images-na.ssl-images-amazon.com/images/I/618AfzVaFaL._AC_.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "BOUNCE FM Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FBounce%20FM.mp3",
+"id": 111,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072126799-6e0z41-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "CSR 103.9 Radio"
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FCSR%20103.9.mp3",
+"id": 112,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072127408-ru8al4-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "K-DST Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FK-DST.mp3",
+"id": 113,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072124899-emc5fd-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "K-JAH WEST Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FK-JAH%20West.mp3",
+"id": 114,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000356668125-wrv9mi-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "K-ROSE Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FK-Rose.mp3",
+"id": 115,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072119820-zf1i5j-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "MASTER SOUND 98.3 Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FMaster%20Sounds%2098.3.mp3",
+"id": 116,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072133202-i404gj-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "PLAYBACK FM Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FPlayback%20FM.mp3",
+"id": 117,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072141506-wh8qno-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "LOS SANTOS Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FRadio%20Los%20Santos.mp3",
+"id": 118,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072122411-jgca6u-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "X Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FRadio%20X.mp3",
+"id": 119,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072117993-aong9p-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "SF-UR Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FSF-UR.mp3",
+"id": 120,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072119487-4igskd-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
+},{
+"name": "WEST COAST TALK Radio",
+"created_at": "2020-05-14T20:25:47+01:00",
+"category": "Radio",
+"url": "http://two66.com/mirrors/index.php?file=GTA-Radio-Stations%2FGTA-San-Andreas%2FWest%20Coast%20Talk%20Radio.mp3",
+"id": 121,
+"description": "GTA San Andreas Radio",
+"logo_url": "https://i1.sndcdn.com/artworks-000072119487-4igskd-t500x500.jpg",
+"provider_logo_url": "https://i1.sndcdn.com/artworks-000261961334-yzf56d-t500x500.jpg"
 }]
 }
