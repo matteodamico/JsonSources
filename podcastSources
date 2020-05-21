@@ -8,7 +8,7 @@
 "description": "",
 "provider_logo_url": ""
 },{
-"name": "HDBLOG",
+"name": "SPREAKER",
 "created_at": "2020-05-21T20:25:47+01:00",
 "category": "Podcast",
 "url": "https://api.spreaker.com/show/4268893/episodes/playlist?sorting=newest",
